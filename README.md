@@ -23,7 +23,6 @@
 </div>
 
 # :thought_balloon: Inspiration
-- Design inspired by [App design](https://www.youtube.com/watch?v=BtdEGLrEDn8&pp=ygURZmx1dHRlciBhbmltZSBhcHA%3D) mabe by [Coder HQ](https://github.com/CoderrHQ).
 
 
 <p align='center'> Made with ❤️ by WKN 👋🏻 </p>
